@@ -38,4 +38,4 @@ _Educational Projects_
 На основе данных из банка определить клиент, который может уйти
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
-|[Прогнозирование оттока клиента Банка](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Recommendation%20of%20tariffs/Recommendation%20of%20tariffs.ipynb)   |Построить систему, способную проанализировать поведение клиентов и предложить пользователям один из новых тариф.| Python, Pandas, Scikit-learn, Matplotlib |
+|[Прогнозирование оттока клиента Банка](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Forecasting%20customer%20churn/Forecasting%20customer%20churn.ipynb)   |Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.| Pandas, Scikit-learn, Matplotlib |
