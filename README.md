@@ -21,3 +21,9 @@ _Educational Projects_
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
 |[Определение выгодного тарифа для телеком компании - статистический анализ данных](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Determining%20a%20favorable%20tariff%20for%20a%20telecom%20company/Determining%20a%20favorable%20tariff%20for%20a%20telecom%20company.ipynb)   | Проведен предварительный анализ использования тарифов, рекомендованы оптимальные наборы услуг для пользователей. Проведена предобработка данных, их анализ. Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов. | Python, Pandas, Matplotlib, NumPy, SciPy|
+
+## Определение успешности компьютерных игр в интернет-магазине
+Определение закономерности успешности игр.
+| Название проекта       | Описание         | Используемые библиотеки |
+| :-------------: |:-------------:| :-----:|
+|[Исследование рынка компьютерных игр](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Determining%20a%20favorable%20tariff%20for%20a%20telecom%20company/Determining%20a%20favorable%20tariff%20for%20a%20telecom%20company.ipynb)   |Анализ доступных исторических данных о продажах игр | Python, Pandas, Seaborn, NumPy, SciPy|
