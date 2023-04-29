@@ -32,4 +32,4 @@ _Educational Projects_
 На основе данных предложить клиенту тариф.
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
-|[Классификаиция клиентов телеком компании](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Analysis%20of%20the%20computer%20games%20market/Analysis%20of%20the%20computer%20games%20market.ipynb)   |Анализ доступных исторических данных о продажах игр | Python, Pandas, Seaborn, NumPy, SciPy|
+|[Классификаиция клиентов телеком компании](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Recommendation%20of%20tariffs/Recommendation%20of%20tariffs.ipynb)   |Построить систему, способную проанализировать поведение клиентов и предложить пользователям один из новых тариф.| Python, Pandas, Scikit-learn, Matplotlib |
