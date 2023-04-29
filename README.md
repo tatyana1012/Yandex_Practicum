@@ -27,3 +27,9 @@ _Educational Projects_
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
 |[Исследование рынка компьютерных игр](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Analysis%20of%20the%20computer%20games%20market/Analysis%20of%20the%20computer%20games%20market.ipynb)   |Анализ доступных исторических данных о продажах игр | Python, Pandas, Seaborn, NumPy, SciPy|
+
+## Классификаиция клиентов телеком компании
+На основе данных предложить клиенту тариф.
+| Название проекта       | Описание         | Используемые библиотеки |
+| :-------------: |:-------------:| :-----:|
+|[Классификаиция клиентов телеком компании](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Analysis%20of%20the%20computer%20games%20market/Analysis%20of%20the%20computer%20games%20market.ipynb)   |Анализ доступных исторических данных о продажах игр | Python, Pandas, Seaborn, NumPy, SciPy|
