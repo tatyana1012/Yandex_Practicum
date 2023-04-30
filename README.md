@@ -69,3 +69,9 @@ _Educational Projects_
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
 |[Определение токсичных комментариев в тексте](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Training%20the%20comment%20classification%20model/Training%20the%20comment%20classification%20model.ipynb)   | Построить модель, которая будет искать токсичные комментарии и отправлять их на модерацию.| Pandas, nltk|
+
+## Определение возраста покупателей по фото
+Система компьютерного зрения для обработки фотографий покупателей.
+| Название проекта       | Описание         | Используемые библиотеки |
+| :-------------: |:-------------:| :-----:|
+|[Система компьютерного зрения для обработки фотографий покупателей](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Training%20the%20comment%20classification%20model/Training%20the%20comment%20classification%20model.ipynb)   | Построить модель, которая будет искать токсичные комментарии и отправлять их на модерацию.| Pandas, nltk|
