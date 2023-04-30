@@ -57,3 +57,9 @@ _Educational Projects_
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
 |[Защита персональных данных клиентов страховой компании](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Data%20protection%20of%20insurance%20company%20clients/Data%20protection%20of%20insurance%20company%20clients.ipynb)   | Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. | Python, Pandas, Scikit-learn, NumPy |
+
+## Прогнозирование количества заказов такси на следующий час
+Разработка системы предсказания объема заказа. Прогнозирование количества заказов такси на следующий час.
+| Название проекта       | Описание         | Используемые библиотеки |
+| :-------------: |:-------------:| :-----:|
+|[Прогнозирование заказов такси](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Data%20protection%20of%20insurance%20company%20clients/Data%20protection%20of%20insurance%20company%20clients.ipynb)   | Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. | Python, Pandas, Scikit-learn, NumPy |
