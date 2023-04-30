@@ -68,4 +68,4 @@ _Educational Projects_
 Определение токсичных комментариев в тексте
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
-|[Определение токсичных комментариев в тексте](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Forecasting%20taxi%20orders/Forecasting%20taxi%20orders.ipynb)   | Необходимо спрогнозировать количество заказов такси на следующий час и  построить модель для такого предсказания.| Pandas, Scikit-learn, Matplotlib, NymPy|
+|[Определение токсичных комментариев в тексте](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Training%20the%20comment%20classification%20model/Training%20the%20comment%20classification%20model.ipynb)   | Построить модель, которая будет искать токсичные комментарии и отправлять их на модерацию.| Pandas, nltk|
