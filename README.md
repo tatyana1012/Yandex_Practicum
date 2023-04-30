@@ -56,4 +56,4 @@ _Educational Projects_
 Необходимо защитить данные клиентов страховой компании
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
-|[Защита персональных данных клиентов страховой компании](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Recovery%20of%20gold%20from%20ore/Recovery%20of%20gold%20from%20ore.ipynb)   |Необходимо построить модель которая должна предсказать коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки| Python, Pandas, Scikit-learn, Matplotlib, NumPy |
+|[Защита персональных данных клиентов страховой компании](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Data%20protection%20of%20insurance%20company%20clients/Data%20protection%20of%20insurance%20company%20clients.ipynb)   | Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. | Python, Pandas, Scikit-learn, NumPy |
