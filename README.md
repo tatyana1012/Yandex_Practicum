@@ -80,5 +80,5 @@ _Educational Projects_
 Уменьшение потребления электроэнергии на этапе обработки стали.
 | Название проекта       | Описание         | Используемые библиотеки |
 | :-------------: |:-------------:| :-----:|
-|[Уменьшение потребления электроэнергии на этапе обработки стали](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Computer%20vision%20for%20photo%20processing/Computer%20vision%20for%20photo%20processing.ipynb)   | Необходимо провести исследовательский анализ набора фотографий. Строится модель, которая по фотографии определит приблизительный возраст человека. | Pandas, Keras|
+|[Уменьшение потребления электроэнергии на этапе обработки стали](https://github.com/tatyana1012/Yandex_Practicum/blob/main/Optimization%20of%20electricity%20consumption%20at%20the%20steel%20processing%20stage/Optimization%20of%20electricity%20consumption%20at%20the%20steel%20processing%20stage.ipynb)   | Необходимо построить модель, которая предскажет температуру стали для  металлургического  комбината, поскольку комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. | Pandas, Seaborn, Numpy, Matplotlib |
 
